@@ -5,7 +5,6 @@
 ŞIFRE BULUNDUGUNDA TEKRARDAN PROXY SORARSA BİLİNKİ SIFRE SORDUGU EN SON
 DENEDİĞİ SIFRENIN BIR ALTINDAKIDIR
 Proxy.adlı dosya oluşturun öyle gecis yapin
-ve bash requirements.sh yazin kurulumu tamamlasin 
 
 manuel kurulum şöyle
 pkg install nano
