@@ -7,13 +7,19 @@ DENEDİĞİ SIFRENIN BIR ALTINDAKIDIR
 Proxylist.txt adlı dosya oluşturun öyle gecis yapin
 
 manuel kurulum şöyle
+
 pkg install nano
+
 pkg install vim
-nano proxylist.txt
+
+pip install requests
+
+proxy sorularına (n) yazin
+
 ses kısma ve c tuşuna basın 
-cikan soruya y diyin 
-sonra isim olara 
-proxy.txt yazın :)
+ 
+sonra isim olarak
+k.adini yazin 
 
 【T】Ü【R】【K】 【S】İ【B】【E】【R】 【T】İ【M】İ -- MAJESTAR
 
